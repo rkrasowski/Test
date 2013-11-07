@@ -18,8 +18,3 @@ sub debug
 	}
 
 print "I have just added line to it\n";
-print "next line\n";
-print "trzecia linia\n";
-print "Test branch\n";
-print "Kolejny test z branch\n";
-print "Test z remote\n";
